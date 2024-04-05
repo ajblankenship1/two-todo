@@ -1,0 +1,33 @@
+section{
+    margin: auto;
+    max-width: 1200px;
+    
+}
+
+label{
+    display: block;
+}
+
+input{
+    display: inline-block;
+}
+
+h1, h2 ,h3, form, ul{
+    text-align: center;
+}
+
+h3, button{
+    display: inline-block;
+}
+
+ul{
+    list-style-type: none;
+}
+.subtaskInput{
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 72px;
+}
